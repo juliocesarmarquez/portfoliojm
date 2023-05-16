@@ -6,13 +6,13 @@ const skills = [
   { skill: "CSS" },
   { skill: "JavaScript" },
   { skill: "TypeScript" },
-  { skill: "Python" },
+  { skill: "AWS" },
   { skill: "React" },
   { skill: "Next.js" },
   { skill: "Tailwind CSS" },
   { skill: "Git" },
-  { skill: "GitHub" },
-  { skill: "Jupyter Notebooks" },
+  { skill: "NodeJS" },
+  { skill: "SQL" },
 ]
 
 const AboutSection = () => {
@@ -30,24 +30,21 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Hosna and I am a{" "}
+              Hi, my name is Julio and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+              <span className="font-bold">{" self-motivated"}</span> and
+              fullstack developer
+              based in Ushuaia, Argentina.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
+              I have been studying programming in a self-taught manner since 2020 and have worked on various personal and third-party projects. I have completed several courses and training programs, among which the CODE YOUR FUTURE scholarship from ACAMICA+GLOBANT stands out.
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
-              I am always seeking new experiences and love to keep myself
-              engaged and learning new things.
+              I have an extensive variety of interests and pastimes that occupy my time.
+              From making hikes, reading, watching soccer, riding a bicycle and
+              traveling. I am constantly in search of challenging experiences and acquiring fresh knowledge.
             </p>
             <br />
             <p>
@@ -57,8 +54,7 @@ const AboutSection = () => {
               </span>{" "}
               and that&#39;s what I strive to do, I have a passion for
               technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              possible. 🙂
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">

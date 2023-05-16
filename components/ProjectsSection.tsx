@@ -6,12 +6,12 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Words Per Minute",
     description:
       "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
     image: "/thankfulthoughts.png",
     github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+    link: "https://words-per-minute1.vercel.app/",
   },
   {
     name: "PlatoIO",
