@@ -9,7 +9,7 @@ const skills = [
   { skill: "AWS" },
   { skill: "React" },
   { skill: "Next.js" },
-  { skill: "Tailwind CSS" },
+  { skill: "Network administrator" },
   { skill: "Git" },
   { skill: "NodeJS" },
   { skill: "SQL" },
@@ -32,7 +32,7 @@ const AboutSection = () => {
             <p>
               Hi, my name is Julio and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span> and
+              <span className="font-bold">{" self-motivated"}</span>
               fullstack developer
               based in Ushuaia, Argentina.
             </p>

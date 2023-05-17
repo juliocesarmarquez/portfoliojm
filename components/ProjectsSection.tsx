@@ -13,7 +13,21 @@ const projects = [
     github: "",
     link: "https://words-per-minute1.vercel.app/",
   },
-
+  // {
+  //   name: "PlatoIO",
+  //   description: "PlatoIO is a to do list app that built using the PERN stack.",
+  //   image: "/platoio.png",
+  //   github: "https://github.com/hqasmei/platoio",
+  //   link: "https://platoio.com/register",
+  // },
+  // {
+  //   name: "Kator Family Photos",
+  //   description:
+  //     "Kator Family Photos is a photos and video digitization service in the LA area.",
+  //   image: "/familyphotos.png",
+  //   github: "https://github.com/hqasmei/katorfamilyphotos",
+  //   link: "https://katorfamilyphotos.com/",
+  // },
 ]
 
 const ProjectsSection = () => {
