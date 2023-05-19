@@ -10,7 +10,7 @@ const projects = [
     description:
       "",
     image: "/thankfulthoughts.png",
-    github: "",
+    github: "https://github.com/juliocesarmarquez/WordsPerMinute",
     link: "https://words-per-minute1.vercel.app/",
   },
   // {
